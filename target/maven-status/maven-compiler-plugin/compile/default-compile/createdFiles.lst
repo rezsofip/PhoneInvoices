@@ -1,0 +1,10 @@
+datamodel\Invoice.class
+datamodel\Main.class
+datamodel\Utility.class
+datamodel\User.class
+datamodel\PhoneNumber.class
+datamodel\Tariff.class
+datamodel\PhoneCall.class
+datamodel\LoadedData.class
+datamodel\AggregatedFee.class
+datamodel\PhoneAndProvider.class
